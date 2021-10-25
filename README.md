@@ -1,5 +1,5 @@
 This compressed folder contains the codes in R language which support the model-based transformations described in 
-Lima, A. C., Royer, E., Bolzonella, M. & Pastres, R.: Digital twins for land-based aquaculture: a case study for rainbow trout. Open Research Europe, Submitted.
+Lima, A. C., Royer, E., Bolzonella, M. & Pastres, R.: Digital twins for land-based aquaculture: a case study for rainbow trout. Manuscript submitted for publication.
 
 Instructions for running the model.
 1-Uncompress folder "DTRT_Model"
