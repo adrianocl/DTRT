@@ -1,3 +1,5 @@
+This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
 This compressed folder contains the codes in R language which support the model-based transformations described in 
 Lima, A. C., Royer, E., Bolzonella, M. & Pastres, R.: Digital twins for land-based aquaculture: a case study for rainbow trout. Manuscript submitted for publication.
 
